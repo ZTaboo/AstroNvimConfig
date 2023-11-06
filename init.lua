@@ -1,4 +1,9 @@
 return {
+  options = {
+    opt = {
+      cmdheight = 1,
+    },
+  },
   -- Configure AstroNvim updates
   updater = {
     remote = "origin", -- remote to use
